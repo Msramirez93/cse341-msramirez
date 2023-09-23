@@ -1,5 +1,5 @@
 {
-  "name": "teamweek2",
+  "name": "test",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -12,6 +12,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^16.3.1",
+    "env": "^0.0.2",
     "express": "^4.18.2",
     "mongodb": "^6.1.0"
   },
