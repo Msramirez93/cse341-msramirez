@@ -35,9 +35,7 @@ content-type: application/json
 ### DELETE contact
 DELETE http://localhost:8080/contacts/6220b775099269ff7b31ceab HTTP/1.1
 
-// PRODUCTION Deploy
-### Get all contacts
-##GET https://cse341-instructor.herokuapp.com/contacts
+
 
 
 ### Get contact by id
