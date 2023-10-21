@@ -1,30 +1,23 @@
 [
 {
-  "contact": {
     "firstName": "Shirley",
     "lastName": "Cuevas",
     "email": "shircue@test.com",
     "favoriteColor": "white",
     "birthday": "10/14/23"
-  }
 },
-
- {
-"contact2": {
+{
     "firstName": "Emily",
     "lastName": "Carter",
     "email": "Cemi@test.com",
     "favoriteColor": "Blue",
     "birthday": "07/11/02"
-  }
 },
 {  
-"contact3": {
     "firstName": "Tyell",
     "lastName": "Gustav",
     "email": "Gustty@test.com",
     "favoriteColor": "Brown",
     "birthday": "08/25/98"
-  }
 }
 ]
