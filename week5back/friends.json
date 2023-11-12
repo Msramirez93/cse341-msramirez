@@ -1,0 +1,35 @@
+[
+{
+    "firstName": "Shirley",
+    "lastName": "Cuevas",
+    "email": "shircue@test.com",
+    "favoriteFood": "Pasta",
+    "favoriteColor": "white",
+    "career": "Medicina",
+    "yearofGraduation": 2026,
+    "friendship" : 2022,
+    "birthday": "10/14/23"
+},
+{
+    "firstName": "Emily",
+    "lastName": "Carter",
+    "email": "Cemi@test.com",
+    "favoriteFood": "Pizza",
+    "favoriteColor": "Blue",
+    "career": "Web programmig",
+    "yearofGraduation": 2026,
+    "friendship" : 2022,
+    "birthday": "07/11/02"
+},
+{  
+    "firstName": "Tyell",
+    "lastName": "Gustav",
+    "email": "Gustty@test.com",
+    "favoriteFood": "barbecue",
+    "favoriteColor": "purple",
+    "career": "psychology",
+    "yearofGraduation": 2024,
+    "friendship" : 2023,
+    "birthday": "08/25/98"
+}
+]
